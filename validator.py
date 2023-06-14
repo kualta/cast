@@ -1,4 +1,3 @@
-
 from prophet.diagnostics import cross_validation
 
 # Define the number of days to forecast
